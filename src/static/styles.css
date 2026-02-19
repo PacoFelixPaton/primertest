@@ -136,6 +136,30 @@ button:hover {
   display: none;
 }
 
+.participants-section {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 2px solid #e0e0e0;
+}
+
+.participants-section ul {
+  margin: 0.5rem 0 0 1.5rem;
+  padding: 0;
+}
+
+.participants-section li {
+  margin: 0.35rem 0;
+  font-size: 0.9rem;
+  color: #555;
+  list-style-type: disc;
+}
+
+.no-participants {
+  margin: 0.5rem 0;
+  color: #999;
+  font-size: 0.9rem;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
